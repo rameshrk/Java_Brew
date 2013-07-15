@@ -1,0 +1,1 @@
+ package code;  public class Parent {    int defaultX = 9; // No access modifier, means default               // (package) access    protected int protectedY = 10;}
