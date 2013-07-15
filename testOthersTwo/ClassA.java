@@ -1,0 +1,5 @@
+package testOthersTwo;
+
+ class ClassC {
+
+}
