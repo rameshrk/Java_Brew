@@ -1,0 +1,1 @@
+ package interfaceClasses;  public interface Parent {    int defaultX = 9; // No access modifier, means default               // (package) access    	 int protectedY = 10;    	  abstract void publicClassdefaultMethod() ;    	 }
